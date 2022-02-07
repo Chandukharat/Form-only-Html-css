@@ -21,7 +21,7 @@ body{margin: 50px;}
     animation-iteration-count: infinite;
 }
 @keyframes mymove {
-    from {left: 0px;} to {left: 1300px; } 
+    from {left: 0vw;} to {left: 100vw; } 
 }
 .bb {
     font-size: x-large ;
@@ -38,7 +38,7 @@ body{margin: 50px;}
     animation-iteration-count: infinite;
 }
 @keyframes mymove {
-    from {left: 0px;} to {left: 1300px; } 
+    from {left: 0vw;} to {left: 100vw; }  }
 .xx {
 
     width: 40px;
@@ -50,7 +50,7 @@ body{margin: 50px;}
     animation-iteration-count: infinite;
 }
 @keyframes mymove {
-    from {left: 0px;} to {left: 1300px; }
+    from {left: 0vw;} to {left: 100vw; } }
 
     .cc {
 
@@ -63,7 +63,7 @@ body{margin: 50px;}
         animation-iteration-count: infinite;
     }
     @keyframes mymove {
-        from {left: 0px;} to {left: 1300px; }
+        from {left: 0vw;} to {left: 100vw; } }
 
         .vv{
 
@@ -76,4 +76,4 @@ body{margin: 50px;}
             animation-iteration-count: infinite;
         }
         @keyframes mymove {
-            from {left: 0px;} to {left: 1300px; }
+            from {left: 0vw;} to {left: 100vw; } }
