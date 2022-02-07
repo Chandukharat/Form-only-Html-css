@@ -1,0 +1,79 @@
+h1 {color: gray;border-style: solid;padding:30px ;}
+.ck{color: gray; border: solid blue ; margin-left: 30px;margin-top: 30px;padding: 20px; border-radius: 20%; }
+h3{color: gray;}
+body{margin: 50px;}
+.po {
+    color: gray;
+}
+.tt {
+    margin-left: 60px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.yy{
+
+    width: 100px;
+    height: 100px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0044/9839/1128/products/red-heart-emoji-neon-flex-sign-nf42916_1f5e3cfb-18e1-4983-8fcf-19360160a637_1000x.jpg?v=1604256934);
+    background-size: 100px 100px ;
+    position: relative;
+    animation: mymove 12s ;
+    animation-iteration-count: infinite;
+}
+@keyframes mymove {
+    from {left: 0px;} to {left: 1300px; } 
+}
+.bb {
+    font-size: x-large ;
+}
+
+.zz {
+
+    width: 40px;
+    height: 40px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0044/9839/1128/products/red-heart-emoji-neon-flex-sign-nf42916_1f5e3cfb-18e1-4983-8fcf-19360160a637_1000x.jpg?v=1604256934);
+    background-size: 40px 40px ;
+    position: relative;
+    animation: mymove 12s ;
+    animation-iteration-count: infinite;
+}
+@keyframes mymove {
+    from {left: 0px;} to {left: 1300px; } 
+.xx {
+
+    width: 40px;
+    height: 40px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0044/9839/1128/products/red-heart-emoji-neon-flex-sign-nf42916_1f5e3cfb-18e1-4983-8fcf-19360160a637_1000x.jpg?v=1604256934);
+    background-size: 40px 40px ;
+    position: relative;
+    animation: mymove 18s ;
+    animation-iteration-count: infinite;
+}
+@keyframes mymove {
+    from {left: 0px;} to {left: 1300px; }
+
+    .cc {
+
+        width: 40px;
+        height: 40px;
+        background-image: url(https://cdn.shopify.com/s/files/1/0044/9839/1128/products/red-heart-emoji-neon-flex-sign-nf42916_1f5e3cfb-18e1-4983-8fcf-19360160a637_1000x.jpg?v=1604256934);
+        background-size: 40px 40px ;
+        position: relative;
+        animation: mymove 16s ;
+        animation-iteration-count: infinite;
+    }
+    @keyframes mymove {
+        from {left: 0px;} to {left: 1300px; }
+
+        .vv{
+
+            width: 40px;
+            height: 40px;
+            background-image: url(https://cdn.shopify.com/s/files/1/0044/9839/1128/products/red-heart-emoji-neon-flex-sign-nf42916_1f5e3cfb-18e1-4983-8fcf-19360160a637_1000x.jpg?v=1604256934);
+            background-size: 40px 40px ;
+            position: relative;
+            animation: mymove 14s ;
+            animation-iteration-count: infinite;
+        }
+        @keyframes mymove {
+            from {left: 0px;} to {left: 1300px; }
